@@ -31,8 +31,7 @@
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
                     <img src="..." class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
+                    <div class="card-body"
                       <p class="card-text">Aqui estão alguns dos projetos que criei no P5.js:</p>
                       <a href="#" class="btn btn-primary">https://editor.p5js.org/gabriellabrotto/sketches/MgbZ-_0hj
                         https://editor.p5js.org/gabriellabrotto/sketches/ny88wCpdx
